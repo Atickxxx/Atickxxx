@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Lua, Html, Css, JavaScript, ...
+🌱 I’m currently learning Lua, Html, Css, JavaScript
 📫 How to reach me: Atickx#3881
 
 

@@ -14,9 +14,9 @@ Although I am very sociable, please do not contact me just to ask me a question 
 <br/>
  <img width="420" src=https://github-readme-stats.vercel.app/api?username=Atickxxx&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false>
  
- <img width="420"href="https://github.com/wz-fivem/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wz-fivem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-<br/>
+ <img width="420"href="https://github.com/wz-fivem/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wz-fivem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 
+<br/>
 
 <!--
 **Atickxxx/Atickxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

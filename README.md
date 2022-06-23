@@ -12,6 +12,11 @@ Although I am very sociable, please do not contact me just to ask me a question 
 ## 🦅 Badges & Stats
 <p align="left">
  <img width="420" src=https://github-readme-stats.vercel.app/api?username=Atickxxx&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false>
+ 
+ <br/>
+    <a href="https://github.com/wz-fivem/github-readme-stats"><img alt="Statistiques Github de Wz" src="[https://github-readme-stats.vercel.app/api?username=wz-fivem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=Atickxxx&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false>)" /></a>
+  <a href="https://github.com/wz-fivem/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atickxxx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 
 

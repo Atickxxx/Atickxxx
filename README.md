@@ -14,7 +14,7 @@ Although I am very sociable, please do not contact me just to ask me a question 
 <br/>
  <img width="420" src=https://github-readme-stats.vercel.app/api?username=Atickxxx&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false>
  
-<href="https://github.com/Atickxxx/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atickxxx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atickxxx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 
 <br/>
 

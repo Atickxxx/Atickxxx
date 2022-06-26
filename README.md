@@ -1,6 +1,7 @@
 ## 😎 Hello, i'm Atickx !
 I am a belgian millitary student who loves to program things on his computer. 
 I program a lot on my time in **Lua** , **Html**, **Css** or **JavaScript**, and at the moment I'm working on a Fivem Server.
+<br/>
 **IMPORTANT** --> https://gitmoji.dev/
 <br/>
 
